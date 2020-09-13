@@ -1,0 +1,14 @@
+KritiskTurtallKuleskrue
+1.0.1
+el7
+Sigurd Dagestad
+sigurd@dagestad.info
+Beregn maks fart på skrue
+MIT
+System
+x86_64
+Beregn maks fart på skrue
+NOSTRIP
+/usr/share/icons/hicolor/128x128/apps/screw.png
+/usr/bin/ktks
+/usr/share/applications/ktks.desktop
