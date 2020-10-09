@@ -1,6 +1,6 @@
 # Kritisk-turtall
 
-Program for fort regne ut maksimumfart man kan kjøre på en kuleskrue med forskjellige oppheng (lagring).
+Program for å regne ut maksimalfart man kan kjøre på en kuleskrue med forskjellige oppheng (lagring).
 rpm laget i CentOS 7.
 
 Eng.:
